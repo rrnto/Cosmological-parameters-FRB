@@ -51,14 +51,9 @@ f_{\rm IGM}(z) = f_{\rm IGM,0} \quad \text{(Case A, constant)}
 $$
 
 $$
-f_{\rm IGM}(z) = f_{\rm IGM,0} + \alpha\,\frac{z}{1+z} \quad \text{(Case B, time-dependent)}
+f_{\rm IGM}(z) = f_{\rm IGM, 0} + \alpha\,\frac{z}{1+z} \quad \text{(Case B, time-dependent)}
 $$
 
-For CPL, the dark energy equation of state evolves as:
-
-$$
-w(z) = w_0 + w_a\,\frac{z}{1+z}
-$$
 
 ## Notebooks
 
