@@ -40,8 +40,8 @@ $$
 where the IGM contribution is:
 
 $$
-\mathrm{DM}_{\rm IGM}(z) = \frac{3c\\Omega_b H_0^2}{8\pi G m_p}
-\int_0^z \frac{(1+z')\f_{\rm IGM}(z')}{H(z')}\dz'
+\mathrm{DM}_{\rm IGM}(z) = \frac{3c\Omega_b H_0^2}{8\pi G m_p}
+\int_0^z \frac{(1+z')\f_{\rm IGM}(z')}{H(z')} dz'
 $$
 
 Two parameterisations of the intergalactic baryon fraction are considered:
