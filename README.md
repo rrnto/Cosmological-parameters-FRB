@@ -123,7 +123,8 @@ and Bayesian evidence for each run are saved in `evidence/bayes_evidence.json`.
 
 ### Cross-Model Comparison
 
-Overlay plots comparing posteriors across all four frameworks, for each case:
+Overlay plots comparing posteriors across the three dark energy models 
+(ΛCDM, wCDM, CPL), for each case:
 
 | Case A (constant f_IGM) | Case B (time-dependent f_IGM) |
 |---|---|
