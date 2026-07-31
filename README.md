@@ -91,6 +91,44 @@ wget https://raw.githubusercontent.com/rrnto/FRB-SN-cosmology/
 > Run the individual model notebooks first to generate the chains, 
 > then run `create_plots.ipynb` to reproduce all figures.
 
+## Results
+
+Below are the posterior corner plots for each cosmological framework, comparing 
+Case A (constant f_IGM) and Case B (time-dependent f_IGM). Full parameter values 
+and Bayesian evidence for each run are saved in `evidence/bayes_evidence.json`.
+
+### Model-Independent
+
+| Case A (constant f_IGM) | Case B (time-dependent f_IGM) |
+|---|---|
+| ![MI Case A](results/mi_caseA_corner.png) | ![MI Case B](results/mi_caseB_corner.png) |
+
+### ΛCDM
+
+| Case A (constant f_IGM) | Case B (time-dependent f_IGM) |
+|---|---|
+| ![LCDM Case A](results/lcdm_caseA_corner.png) | ![LCDM Case B](results/lcdm_caseB_corner.png) |
+
+### wCDM
+
+| Case A (constant f_IGM) | Case B (time-dependent f_IGM) |
+|---|---|
+| ![wCDM Case A](results/wcdm_caseA_corner.png) | ![wCDM Case B](results/wcdm_caseB_corner.png) |
+
+### CPL
+
+| Case A (constant f_IGM) | Case B (time-dependent f_IGM) |
+|---|---|
+| ![CPL Case A](results/cpl_caseA_corner.png) | ![CPL Case B](results/cpl_caseB_corner.png) |
+
+### Cross-Model Comparison
+
+Overlay plots comparing posteriors across all four frameworks, for each case:
+
+| Case A (constant f_IGM) | Case B (time-dependent f_IGM) |
+|---|---|
+| ![Cross-model Case A](results/crossmodel_caseA.png) | ![Cross-model Case B](results/crossmodel_caseB.png) |
+
 ## Dependencies
 
 ```
