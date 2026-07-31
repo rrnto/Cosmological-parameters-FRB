@@ -59,11 +59,11 @@ $$
 
 | Notebook | Description |
 |---|---|
-| `model_independent_frb_and_sn.ipynb` | Model-independent constraints using FRB and Type Ia Supernova data |
-| `LCDM_frb.ipynb` | Parameter constraints under ΛCDM |
-| `wCDM_frb.ipynb` | Parameter constraints under wCDM |
-| `CPL_frb_best_v.ipynb` | Parameter constraints under CPL |
-| `create_plots.ipynb` | Loads all chains and produces corner plots, overlay plots, and model comparison tables |
+| [`model_independent_frb_and_sn.ipynb`](notebooks/model_independent_frb_and_sn.ipynb) | Model-independent constraints using FRB and Type Ia Supernova data |
+| [`LCDM_frb.ipynb`](notebooks/LCDM_frb.ipynb) | Parameter constraints under ΛCDM |
+| [`wCDM_frb.ipynb`](notebooks/wCDM_frb.ipynb) | Parameter constraints under wCDM |
+| [`CPL_frb_best_v.ipynb`](notebooks/CPL_frb_best_v.ipynb) | Parameter constraints under CPL |
+| [`create_plots.ipynb`](notebooks/create_plots.ipynb) | Loads all chains and produces corner plots, overlay plots, and model comparison tables |
 
 ## Data
 
